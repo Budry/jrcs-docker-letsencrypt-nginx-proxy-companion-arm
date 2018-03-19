@@ -6,7 +6,7 @@ RUN apk add --update \
     && rm /var/cache/apk/*
 
 
-ENV LETS_ENCRYPT_VERSION "v1.7"
+ENV LETS_ENCRYPT_VERSION "v1.8"
 RUN git clone --branch ${LETS_ENCRYPT_VERSION} https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion.git /docker-letsencrypt-nginx-proxy-companion
 
 
