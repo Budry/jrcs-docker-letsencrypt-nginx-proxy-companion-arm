@@ -14,4 +14,5 @@ For full documentation see [orignal image](https://github.com/JrCs/docker-letsen
 
 **NOTE:** Tag corresponds to the version of haas-proxy
 
-* `1.7`, `latest` - standard version [(Dockerfile)](https://github.com/Budry/jrcs-docker-letsencrypt-nginx-proxy-companion-arm/blob/v1.7/Dockerfile)
+* `1.8`, `latest` - standard version [(Dockerfile)](https://github.com/Budry/jrcs-docker-letsencrypt-nginx-proxy-companion-arm/blob/v1.8/Dockerfile)
+* `1.7` - standard version [(Dockerfile)](https://github.com/Budry/jrcs-docker-letsencrypt-nginx-proxy-companion-arm/blob/v1.7/Dockerfile)
